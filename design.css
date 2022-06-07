@@ -506,6 +506,754 @@ a{
     font-weight: 500;
     margin: 10px 0 7px 0;
 }
+/*press kit page*/
+.skills 
+{
+    background: url("background3.jpg") no-repeat center;
+    background-size: cover;
+    
+}
+
+.skills .skills-content .left{
+    width: 45%;
+}
+.skills .skills-content .left img{
+    height: 900px;
+    width: 900px;
+    object-fit: cover;
+    border-radius: 6px;
+}
+.skills .skills-content .right{
+    width: 35%;
+}
+.skills .skills-content .right .text
+{
+    color: rgb(236, 241, 240);
+    margin-top: 40px;
+    margin-left: 10;
+    margin-right: 10;
+    font-size: 35px;
+    font-weight: 600;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.skills .skills-content .right 
+p{
+    color: rgb(236, 241, 240);
+    text-align: justify;
+    padding-top: 125px;
+}
+.skills .skills-content .right 
+a{
+    display: inline-block;
+    background: crimson;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 10px 30px;
+    margin-top: 20px;
+    border-radius: 6px;
+    border: 2px solid crimson;
+    transition: all 0.3s ease;
+}
+
+.card3{
+    width: 500px;
+    height: 700px;
+    background: #766e6e7d;
+    display: inline-block;
+    box-shadow: 2px 2px 20px rgba(220, 213, 213, 0.927);
+    border-radius: 5px; 
+    margin: 2%;
+}
+.skills .skills-content .left2{
+    width: 45%;
+}
+.skills .skills-content .right2 img{
+    margin-top: 80px;
+    margin-left: 460px;
+    height: 900px;
+    width: 900px;
+    object-fit: cover;
+    border-radius: 6px;
+}
+.skills .skills-content .left2{
+    width: 35%;
+}
+.skills .skills-content .left2 .text
+{
+    color: rgb(236, 241, 240);
+    margin-top: 145px;
+    margin-left: 10;
+    margin-right: 10;
+    font-size: 35px;
+    font-weight: 600;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.skills .skills-content .left2 
+p{
+    color: rgb(236, 241, 240);
+    text-align: justify;
+    padding-top: 125px;
+}
+.skills .skills-content .right2 
+a{
+    display: inline-block;
+    background: crimson;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 10px 30px;
+    margin-top: 20px;
+    border-radius: 6px;
+    border: 2px solid crimson;
+    transition: all 0.3s ease;
+}
+
+.card4{
+    width: 500px;
+    height: 700px;
+    background: #766e6e7d;
+    display: inline-block;
+    box-shadow: 2px 2px 20px rgba(220, 213, 213, 0.927);
+    border-radius: 5px; 
+    margin-top: -810px;
+}
+/*press kit page 2*/
+.skills2 
+{
+    background: url("background3.jpg") no-repeat center;
+    background-size: cover;
+    
+}
+
+.skills2 .skills-content .left{
+    width: 45%;
+}
+.skills2 .skills-content .left img{
+    height: 1125px;
+    width: 885px;
+    object-fit: cover;
+    border-radius: 6px;
+}
+.skills2 .skills-content .right{
+    width: 35%;
+}
+.skills2 .skills-content .right .text
+{
+    color: rgb(236, 241, 240);
+    margin-top: 240px;
+    margin-left: 10;
+    margin-right: 10;
+    font-size: 45px;
+    font-weight: 600;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.skills2 .skills-content .right 
+p{
+    color: rgb(236, 241, 240);
+    text-align: justify;
+    padding-top: 125px;
+}
+.skills2 .skills-content .right 
+a{
+    display: inline-block;
+    background: crimson;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 10px 30px;
+    margin-top: 20px;
+    border-radius: 6px;
+    border: 2px solid crimson;
+    transition: all 0.3s ease;
+}
+
+.card5{
+    width: 500px;
+    height: 700px;
+    background: #766e6e7d;
+    display: inline-block;
+    box-shadow: 2px 2px 20px rgba(220, 213, 213, 0.927);
+    border-radius: 5px; 
+    margin-top: -915px;
+    margin-bottom: 0px;
+    margin-left: 840px;
+    margin-right: 0px;
+}
+.skills2 .skills-content .left2{
+    width: 45%;
+}
+.skills2 .skills-content .right2 img{
+    margin-top: 80px;
+    margin-left: 460px;
+    height: 900px;
+    width: 900px;
+    object-fit: cover;
+    border-radius: 6px;
+}
+.skills2 .skills-content .left2{
+    width: 35%;
+}
+.skills2 .skills-content .left2 .text
+{
+    color: rgb(236, 241, 240);
+    margin-top: 80px;
+    margin-left: 10;
+    margin-right: 10;
+    font-size: 35px;
+    font-weight: 600;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.skills2 .skills-content .left2 
+p{
+    color: rgb(236, 241, 240);
+    text-align: justify;
+    padding-top: 125px;
+}
+.skills2 .skills-content .right2 
+a{
+    display: inline-block;
+    background: crimson;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 10px 30px;
+    margin-top: 20px;
+    border-radius: 6px;
+    border: 2px solid crimson;
+    transition: all 0.3s ease;
+}
+
+.card6{
+    width: 500px;
+    height: 700px;
+    background: #766e6e7d;
+    display: inline-block;
+    box-shadow: 2px 2px 20px rgba(220, 213, 213, 0.927);
+    border-radius: 5px; 
+    margin-top: -810px;
+}
+/*press image page*/
+.skills3 
+{
+    background: url("background3.jpg") no-repeat center;
+    background-size: cover;
+    
+}
+
+.skills3 .skills-content .left{
+    width: 45%;
+}
+.skills3 .skills-content .left img{
+    height: 510px;
+    width: 765px;
+    object-fit: cover;
+    border-radius: 6px;
+    border: 2px solid #f1f1f1;
+    margin-left: -90px;
+}
+.skills3 .skills-content .left2{
+    width: 45%;
+}
+.skills3 .skills-content .left2 img{
+    height: 880px;
+    width: 765px;
+    margin-top: 50px;
+    object-fit: cover;
+    border-radius: 6px;
+    border: 2px solid #f1f1f1;
+    margin-left: -90px;
+}
+.skills3 .skills-content .left3{
+    width: 45%;
+}
+.skills3 .skills-content .left3 img{
+    height: 765px;
+    width: 765px;
+    margin-top: 50px;
+    object-fit: cover;
+    border-radius: 6px;
+    border: 2px solid #f1f1f1;
+    margin-left: -90px;
+}
+.skills3 .skills-content .right{
+    width: 45%;
+}
+.skills3 .skills-content .right img{
+    height: 965px;
+    width: 665px;
+    object-fit: cover;
+    border-radius: 6px;
+    border: 2px solid #f1f1f1;
+    margin-left: 730px;
+    margin-top: -2268px;
+}
+.skills3 .skills-content .right3{
+    width: 45%;
+}
+.skills3 .skills-content .right2 img{
+    height: 665px;
+    width: 665px;
+    margin-top: 50px;
+    object-fit: cover;
+    border-radius: 6px;
+    border: 2px solid #f1f1f1;
+    margin-left: 730px;
+    margin-top: -1250px;
+}
+.skills3 .skills-content .right3{
+    width: 45%;
+}
+.skills3 .skills-content .right3 img{
+    height: 830px;
+    width: 665px;
+    
+    object-fit: cover;
+    border-radius: 6px;
+    border: 2px solid #f1f1f1;
+    margin-left: 730px;
+    margin-top: -530px;
+}
+
+/*show page*/
+.show 
+{
+    background: url("background4.jpg") no-repeat center;
+    background-size: cover;
+    
+}
+
+.show .skills-content .left{
+    width: 45%;
+}
+.show .skills-content .left img{
+    height: 1275px;
+    width: 770px;
+    object-fit: cover;
+    border-radius: 6px;
+}
+.show .skills-content .right{
+    width: 35%;
+}
+.show .skills-content .right .text
+{
+    color: rgb(236, 241, 240);
+    margin-top: 240px;
+    margin-left: 10;
+    margin-right: 10;
+    font-size: 50px;
+    font-weight: 600;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.show .skills-content .right 
+p{
+    color: rgb(236, 241, 240);
+    text-align: justify;
+    padding-top: 125px;
+}
+.show .skills-content .right 
+a{
+    display: inline-block;
+    background: crimson;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 10px 30px;
+    margin-top: 20px;
+    border-radius: 6px;
+    border: 2px solid crimson;
+    transition: all 0.3s ease;
+}
+
+.card7{
+    width: 500px;
+    height: 700px;
+    background: #766e6e7d;
+    display: inline-block;
+    box-shadow: 2px 2px 20px rgba(220, 213, 213, 0.927);
+    border-radius: 5px; 
+    margin-top: -950px;
+    margin-left: 735px;
+    
+}
+.show .skills-content .left2{
+    width: 45%;
+}
+.show .skills-content .right2 img{
+    margin-top: 80px;
+    margin-left: 460px;
+    height: 1275px;
+    width: 910px;
+    object-fit: cover;
+    border-radius: 6px;
+}
+.show .skills-content .left2{
+    width: 35%;
+}
+.show .skills-content .left2 .text
+{
+    color: rgb(236, 241, 240);
+    margin-top: 145px;
+    margin-left: 10;
+    margin-right: 10;
+    font-size: 65px;
+    font-weight: 600;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.show .skills-content .left2 
+p{
+    color: rgb(236, 241, 240);
+    text-align: justify;
+    padding-top: 125px;
+}
+.show .skills-content .right2 
+a{
+    display: inline-block;
+    background: crimson;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 10px 30px;
+    margin-top: 20px;
+    border-radius: 6px;
+    border: 2px solid crimson;
+    transition: all 0.3s ease;
+}
+
+.card8{
+    width: 500px;
+    height: 700px;
+    background: #766e6e7d;
+    display: inline-block;
+    box-shadow: 2px 2px 20px rgba(220, 213, 213, 0.927);
+    border-radius: 5px; 
+    margin-top: -810px;
+}
+/*Show page 2*/
+.show2 
+{
+    background: url("background4.jpg") no-repeat center;
+    background-size: cover;
+    
+}
+
+.show2 .skills-content .left{
+    width: 45%;
+}
+.show2 .skills-content .left img{
+    height: 990px;
+    width: 990px;
+    object-fit: cover;
+    border-radius: 6px;
+}
+.show2 .skills-content .right{
+    width: 35%;
+}
+.show2 .skills-content .right .text
+{
+    color: rgb(236, 241, 240);
+    margin-top: 240px;
+    margin-left: 10;
+    margin-right: 10;
+    font-size: 50px;
+    font-weight: 600;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.show2 .skills-content .right 
+p{
+    color: rgb(236, 241, 240);
+    text-align: justify;
+    padding-top: 125px;
+}
+.show2 .skills-content .right 
+a{
+    display: inline-block;
+    background: crimson;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 10px 30px;
+    margin-top: 20px;
+    border-radius: 6px;
+    border: 2px solid crimson;
+    transition: all 0.3s ease;
+}
+
+.card9{
+    width: 500px;
+    height: 700px;
+    background: #766e6e7d;
+    display: inline-block;
+    box-shadow: 2px 2px 20px rgba(220, 213, 213, 0.927);
+    border-radius: 5px; 
+    margin-top: -915px;
+    margin-bottom: 0px;
+    margin-left: 840px;
+    margin-right: 0px;
+}
+.show2 .skills-content .left2{
+    width: 45%;
+}
+.show2 .skills-content .right2 img{
+    margin-top: 80px;
+    margin-left: 460px;
+    height: 900px;
+    width: 900px;
+    object-fit: cover;
+    border-radius: 6px;
+}
+.show2 .skills-content .left2{
+    width: 35%;
+}
+.show2 .skills-content .left2 .text
+{
+    color: rgb(236, 241, 240);
+    margin-top: 80px;
+    margin-left: 10;
+    margin-right: 10;
+    font-size: 65px;
+    font-weight: 600;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.show2 .skills-content .left2 
+p{
+    color: rgb(236, 241, 240);
+    text-align: justify;
+    padding-top: 125px;
+}
+.show2 .skills-content .right2 
+a{
+    display: inline-block;
+    background: crimson;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 10px 30px;
+    margin-top: 20px;
+    border-radius: 6px;
+    border: 2px solid crimson;
+    transition: all 0.3s ease;
+}
+
+.card10{
+    width: 500px;
+    height: 700px;
+    background: #766e6e7d;
+    display: inline-block;
+    box-shadow: 2px 2px 20px rgba(220, 213, 213, 0.927);
+    border-radius: 5px; 
+    margin-top: -810px;
+}
+
+/* contact section styling */
+
+.contact 
+{
+    background: url("background6.jpg") no-repeat center;
+    background-size: cover;
+    height: 995px;
+    width: 1525px;
+    
+}
+.contact .title2{
+    position: relative;
+    text-align: center;
+    font-size: 100px;
+    font-weight: 500;
+    margin-bottom: 60px;
+    margin-top: -15px;
+    padding-bottom: 20px;
+    font-family: 'Lusitana';
+    color: #f1f1f1;   
+
+}
+/*.contact .contact-content .column{
+    width: calc(50% - 30px);
+}*/
+.contact .contact-content .text{
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.contact .contact-content .left 
+p{
+    text-align: justify;
+    font-size: 60px;
+    font-weight: 500;
+    color: #f1f1f1;
+    /*margin-bottom: 60px;
+    margin-top: -70px;
+    padding-bottom: 20px;*/
+    font-family: 'Lusitana';
+}
+.contact .contact-content .left 
+p2{
+    text-align: justify;
+    font-size: 50px;
+    font-weight: 500;
+    color: #f1f1f1;
+    /*margin-bottom: 60px;
+    margin-top: -70px;
+    padding-bottom: 20px;*/
+    font-family: 'Lusitana';
+}
+.contact .contact-content .left 
+p3{
+    text-align: justify;
+    font-size: 35px;
+    font-weight: 500;
+    color: #f1f1f1;
+    /*margin-bottom: 60px;
+    margin-top: -70px;
+    padding-bottom: 20px;*/
+    font-family: 'Lusitana';
+}
+.contact .contact-content .left 
+a{
+   
+    color: #25CDE3;
+    
+}
+/*.contact .contact-content .column{
+    width: calc(50% - 30px);
+}*/
+.contact .contact-content .right 
+p{
+    text-align: justify;
+    font-size: 60px;
+    font-weight: 500;
+    color: #f1f1f1;
+    margin-bottom: 335px;
+    margin-left: 220px;
+    margin-right: 30px;
+    /*padding-bottom: 20px;*/
+    font-family: 'Lusitana';
+}
+
+.vertical-center9
+{
+    margin: 0px;
+    position: absolute;
+    top: 16870px;
+    left: 950px;
+}
+.vertical-center10
+{
+    margin: 0px;
+    position: absolute;
+    top: 16870px;
+    left: 1050px;
+}
+.vertical-center11
+{
+    margin: 0px;
+    position: absolute;
+    top: 16870px;
+    left: 1150px;
+}
+.vertical-center12
+{
+    margin: 0px;
+    position: absolute;
+    top: 16870px;
+    left: 1250px;
+}
+
+.contact .con
+{
+    text-align: center;
+    font-size: 70px;
+    font-weight: 500;
+    color: #f1f1f1;
+    margin-bottom: 335px;
+    margin-left: 5px;
+    margin-top: 135px;
+    /*padding-bottom: 20px;*/
+    font-family: 'Lusitana';
+}
+.contact .middle form .fields{
+    display: flex;
+}
+.contact .middle form .field,
+.contact .middle form .fields .field{
+    height: 45px;
+    width: 100%;
+    margin-bottom: 15px;
+}
+.contact .middle form .textarea{
+    height: 80px;
+    width: 100%;
+}
+.contact .middle form .name{
+    margin-right: 10px;
+}
+.contact .middle form .field input,
+.contact .middle form .textarea textarea{
+    height: 150%;
+    width: 650px;
+    border: 1px solid lightgrey;
+    border-radius: 6px;
+    outline: none;
+    padding: 0 15px;
+    font-size: 17px;
+    font-family: 'Poppins', sans-serif;
+    transition: all 0.3s ease;
+    margin-top: -275px;
+    margin-left: 335px;
+}
+.contact .middle form .field input:focus,
+.contact .middle form .textarea textarea:focus{
+    border-color: #b3b3b3;
+}
+.contact .middle form .textarea textarea{
+  padding-top: 10px;
+  resize: none;
+}
+.contact .middle form .button-area{
+  display: flex;
+  align-items: center;
+}
+.middle form .button-area button{
+  color: #fff;
+  display: block;
+  width: 160px!important;
+  height: 67px;
+  margin-top: -603px;
+  margin-left: 1005px;
+  outline: none;
+  font-size: 18px;
+  font-weight: 500;
+  border-radius: 6px;
+  cursor: pointer;
+  flex-wrap: nowrap;
+  background: crimson;
+  border: 2px solid crimson;
+  transition: all 0.3s ease;
+}
+.middle form .button-area button:hover{
+  color: crimson;
+  background: none;
+}
+
+/*footer section*/
 
 footer{
     background: rgba(147, 140, 140, 0.717);
@@ -527,14 +1275,14 @@ footer span a:hover{
 {
     margin: 0px;
     position: absolute;
-    top: 468%;
-    left: 84%;
+    top: 17680px;
+    left: 1195px;
 }
 
 .vertical-center8
 {
     margin: 0px;
     position: absolute;
-    top: 468%;
-    left: 88%;
+    top: 17680px;
+    left: 1250px;
 }
